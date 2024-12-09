@@ -4,7 +4,7 @@
  }
  
  body {
-    background-color:lightsteelblue;
+    background-color:#EFF6FD;
     margin: 0;
     box-sizing: border-box;
     display: flex;
@@ -38,7 +38,7 @@
  }
  
  .nav {
-    background-color: lightsteelblue;
+    background-color: #EFF6FD;
     color: midnightblue;
     display: flex;
     justify-content: space-between;
@@ -185,7 +185,7 @@
  
  /* Footer */
  footer {
-    background-color: lightsteelblue;
+    background-color: #EFF6FD;
     display: flex;
     justify-content: center;
     align-items: center;
