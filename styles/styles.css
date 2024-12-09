@@ -4,7 +4,7 @@
  }
  
  body {
-    background-color:##D8EAFA;
+    background-color:#D8EAFA;
     margin: 0;
     box-sizing: border-box;
     display: flex;
@@ -38,7 +38,7 @@
  }
  
  .nav {
-    background-color: ##D8EAFA;
+    background-color: #D8EAFA;
     color: midnightblue;
     display: flex;
     justify-content: space-between;
@@ -185,7 +185,7 @@
  
  /* Footer */
  footer {
-    background-color: ##D8EAFA;
+    background-color: #D8EAFA;
     display: flex;
     justify-content: center;
     align-items: center;
